@@ -1,1 +1,1 @@
-<h3 align="center"><strong>EKS (Elastic Kubernetes Service</strong></h3>
+<h3 align="center"><strong>EKS (Elastic Kubernetes Service)</strong></h3>
